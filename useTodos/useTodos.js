@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 
 //este custom hook se usó en el componente TodoApp del archivo TodoApp.jsx, checarlo, ahi se explica el hook del useReducer y lo demas que se ve abajo
 
