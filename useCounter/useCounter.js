@@ -3,6 +3,7 @@ import { useState } from "react";
 //este es un custom hook y se usa en el componente CounterWithCustomHook del archivo CounterWithCustomHook.jsx, checarlo
 
 //modificacion desde una rama creada llamada prueba
+//modificacion desde prueba2
 
 export const useCounter = (initialValue = 10) => {
 
